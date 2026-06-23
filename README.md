@@ -1,4 +1,4 @@
-# Hi, I'm Anant Kumar Pandey BTech CSE
+# Hi, I'm Anant Kumar Pandey!
 
 ## About Me
 
