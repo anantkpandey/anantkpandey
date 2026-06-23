@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Anant Kumar Pandey BTech CSE
 
 ## About Me
 
@@ -68,6 +68,6 @@
 
 ## Connect
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/akpandeybtechcse/
 
-GitHub: [Your GitHub URL]
+GitHub: https://github.com/anantkpandey
