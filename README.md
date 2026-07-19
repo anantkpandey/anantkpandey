@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Anant Kumar Pandey! 👋
 
 ## Computer Scientist • Engineer • K–12 Computer Science Educator
