@@ -1,199 +1,112 @@
-# Hi, I'm Anant Kumar Pandey! 👋
+# Hi, I'm Anant Kumar Pandey 👋
 
-## Computer Scientist • Engineer • K–12 Computer Science Educator
+**Teacher • Computer Scientist • Technologist • Builder**
 
-I'm a Computer Science & Engineering graduate passionate about inspiring the next generation of innovators through coding, AI, robotics, cybersecurity, and STEM education.
+I work at the intersection of **Science, Computing, Robotics & Autonomous Systems, and Educational Technology**.
 
-Since 2018, I've been teaching Computer Science to K–12 students while continuously expanding my expertise in emerging technologies and hands-on learning.
+My long-term goal is to engineer intelligent technologies that make learning more **accessible, engaging, personalized, and effective**—while exploring intelligent systems that can perceive, reason, learn, and act in the physical world.
 
----
+## 🧭 What I'm Working On
 
-## 👨‍🏫 What I Do
+* 📐 **Physics, Chemistry & Mathematics** — scientific and mathematical foundations
+* 💻 **Computer Science** — programming, algorithms, systems, databases, Linux and software engineering
+* 🤖 **Robotics & Autonomous Systems** — robotics, ROS 2, simulation, control, perception and autonomy
+* 🎓 **Educational Technology** — intelligent learning systems, Learning Analytics and Educational Data Mining
+* 🌐 **IoT & Cyber-Physical Systems** — connecting computation with the physical world
+* 🔬 **Research** — exploring interdisciplinary problems at the intersection of computing, intelligent systems and education
 
-- 🎓 Teach Computer Science from foundational to advanced levels
-- 🐍 Teach Python programming and computational thinking
-- 🤖 Mentor students in AI, Robotics, IoT, and STEM projects
-- 🏆 Prepare students for coding competitions, hackathons, and Olympiads
-- 📜 Guide students toward industry-recognized certifications
-- 💡 Design project-based learning experiences for young innovators
+## 🛠️ Technologies
 
----
+**Languages**
 
-## 🚀 Areas of Interest
+`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `SQL`
 
-- Python Programming
-- Artificial Intelligence & Machine Learning
-- Robotics
-- Internet of Things (IoT)
-- Cybersecurity
-- Computer Vision
-- STEM Education
-- Competitive Programming
-- Educational Technology (EdTech)
+**Backend & Web**
 
----
+`FastAPI` `Node.js` `React` `Vue` `PostgreSQL`
 
-## 📚 Current Learning Journey
+**Data & Distributed Systems**
 
-- Linux Administration
-- Networking Fundamentals
-- Security Operations (SOC)
-- Python for Security Automation
-- AI & Machine Learning
-- Robotics Programming
-- Arduino & Embedded Systems
-- Computer Vision
-- Cloud & Automation
+`Apache Spark` `Hadoop` `Kafka` `Parquet`
 
----
+**Systems & Infrastructure**
 
-## 💻 Technical Skills
+`Linux` `Git` `Docker` `Kubernetes`
 
-### Programming
+**Robotics & Embedded**
 
-- Python
-- Scratch
-- C
-- C++
-- HTML
-- CSS
-- JavaScript (Basics)
+`ROS 2` `Arduino` `IoT` `Sensors` `Actuators` `Computer Vision`
 
-### Computer Science
+## 🔬 Current Learning Direction
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Computational Thinking
-- Problem Solving
+My learning follows a connected progression:
 
-### AI & Robotics
-
-- Arduino
-- Sensors & Actuators
-- Robotics Programming
-- AI Fundamentals
-- Computer Vision Basics
-
-### Cybersecurity
-
-- Linux
-- Network Security Fundamentals
-- Log Analysis
-- Security Operations (SOC)
-- Security Labs
-- Python Automation
-
-### Tools & Platforms
-
-- Git & GitHub
-- VS Code
-- Linux
-- Windows
-
----
-
-## 🏫 Student Programs I Love Building
-
-- 🐍 Python Programming Club
-- 🤖 Robotics Club
-- 🧠 AI & Machine Learning Club
-- 🌐 IoT & Electronics Club
-- 🔒 Cybersecurity Club
-- 💻 Competitive Programming Club
-- 🚀 STEM Innovation Club
-
----
-
-## 🏅 Competitions & Certifications I Encourage
-
-### Coding Competitions
-
-- Bebras Challenge
-- International Olympiad in Informatics (IOI Pathway)
-- CodeChef
-- Codeforces
-- HackerRank
-- LeetCode
-
-### Robotics Competitions
-
-- FIRST LEGO League (FLL)
-- FIRST Tech Challenge (FTC)
-- World Robot Olympiad (WRO)
-- VEX Robotics
-- RoboCup Junior
-
-### Student Certifications
-
-- Microsoft Learn
-- Oracle Academy
-- Cisco Networking Academy
-- Python Programming
-- Arduino
-- AI & Robotics Learning Pathways
-
----
-
-## 📂 Featured Projects
-
-### Education
-
-- Interactive Python Learning Activities
-- Scratch Projects for Beginners
-- AI Classroom Demonstrations
-- Robotics Learning Modules
-- STEM Project Guides
-
-### Programming
-
-- Python Automation Scripts
-- Educational Coding Examples
-- Arduino Experiments
-- IoT Mini Projects
-
-### Cybersecurity
-
-- Port Scanner
-- Log Analyzer
-- Failed Login Detector
-- Network Monitoring Scripts
-- Python Security Automation
-
----
-
-## 🎯 Vision
-
-I believe every student should have the opportunity to:
-
-- Learn to code
-- Build robots
-- Explore Artificial Intelligence
-- Understand Cybersecurity
-- Think computationally
-- Solve real-world problems
-- Develop a strong STEM portfolio through projects, competitions, and certifications
-
-My goal is to create engaging learning experiences that prepare students not only for examinations but also for future careers in technology.
-
----
-
-## 🌱 Current Goals
-
-- Build advanced AI & Robotics learning resources
-- Expand cybersecurity knowledge and practical skills
-- Develop project-based STEM curricula
-- Mentor students for national and international competitions
-- Help students earn globally recognized certifications
-- Contribute open-source educational resources for teachers and learners
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/akpandeybtechcse/
-- 💻 GitHub: https://github.com/anantkpandey
-
----
-
-> **"Inspire Today. Innovate Tomorrow. Build the Future."**
+```text
+Mathematics
+     ↓
+Physics & Scientific Foundations
+     ↓
+Computer Science
+     ↓
+AI / Data / Intelligent Systems
+     ↓
+Robotics & Autonomous Systems
+     ↓
+Cyber-Physical Systems
+     ↓
+Educational Technology
+     ↓
+Intelligent Learning Systems
 ```
+
+I am particularly interested in how **intelligent systems can be engineered for both physical and learning environments**.
+
+## 🚀 Projects
+
+Some areas I'm building and exploring:
+
+* **Educational Technology & School ERP**
+* **Learning Analytics platforms**
+* **IoT and Cyber-Physical Systems**
+* **Robotics and Autonomous Vehicles**
+* **Data collection and processing tools for educational systems**
+* **Backend APIs and distributed data platforms**
+* **K-12 Computer Science and STEM learning resources**
+
+## 📚 How I Learn
+
+I believe in:
+
+> **Learn → Solve → Build → Explain → Teach → Research**
+
+I try to turn what I learn into something tangible—software, experiments, teaching resources, documentation, or research.
+
+## 👨‍🏫 Teaching
+
+I work as a **Computer teacher**, developing learning resources and teaching Computer Science, technology and STEM concepts to school students.
+
+Teaching also shapes my engineering philosophy:
+
+> **If I cannot explain a system clearly, I probably don't understand it deeply enough.**
+
+## 🌱 Long-Term Vision
+
+To become a **world-class technologist and scholar-educator**, developing intelligent technologies at the intersection of:
+
+**Science × Computing × Robotics × Education**
+
+---
+
+### 🤝 Let's Connect & Build
+
+I'm interested in collaborating on:
+
+* Robotics & Autonomous Systems
+* Educational Technology
+* Learning Analytics
+* IoT & Cyber-Physical Systems
+* Open-source software
+* Computer Science education
+* Interdisciplinary research
+
+**Build something useful. Understand it deeply. Teach it clearly. Improve it continuously. 🚀**
